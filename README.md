@@ -2,7 +2,8 @@
 
 [![ij.start.canon](gett-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Get started to Canon inkjet setup with guidelines of ij.start.canon site. Check and learn the best and easy methods to set up Canon printer hardware download and install the Canon ij setup. The site is based on the computer operating system where you can find an online manual and guide. Use the wired or wireless connection to connect the Canon printer to Wi-Fi and router as well. Then, set up the hardware and install the Canon software. Now you can try printing.
+Get started to Canon inkjet setup with guidelines of [ij.start.canon](https://ijstarttcans.github.io/) site. Check and learn the best and easy methods to set up Canon printer hardware download and install the Canon ij setup. The site is based on the computer operating system where you can find an online manual and guide. Use the wired or wireless connection to connect the Canon printer to Wi-Fi and router as well. Then, set up the hardware and install the Canon software. Now you can try printing.
+
 
 ##  How to Download and Install Canon ij setup via ij.start.canon?
 
@@ -11,19 +12,21 @@ Get started to Canon inkjet setup with guidelines of ij.start.canon site. Check 
 * Ensure the browser you’ll use for ij start canon printer setup has its updated version.
 * Go through ij.start.canon (secure) site and click **“Set Up (Start Here)”** tab.
 * Move ahead to the next page, where you need to enter the Canon printer model.
-* You also can choose the first two letters of your Canon ij printer from shown list on ij.start.canon screen.
+* You also can choose the first two letters of your Canon ij printer from shown list on [ij.start.canon](https://ijstarttcans.github.io/) screen.
 * Click **“Start”**.
 * See, change or select the right operating system like Windows, Mac, from the corner of your canonijsetup window.
 * Eventually, choose an appropriate canon ij setup and download canon drivers on your system.
-* After software download from ij.start.canon, open downloads folder, and double-click on setup file to install the Canon printer software.
+* After software download from [ij.start.canon](https://ijstarttcans.github.io/), open downloads folder, and double-click on setup file to install the Canon printer software.
 * Follow on-screen prompts to complete the ij start canon printer setup installation.
 
+
 ##  Step by Step Guide to Set Up Your Canon Inkjet Printer
+
 
 ###  Step 1- Configure the printer hardware
 Take out all the canon printer elements from the box and assemble them on a clean surface. Then configure and connect to power, as well install Printhead and Ink Cartridges.
 
-###  Step 2 – Visit ij.start.canon
+###  Step 2 – Visit [ij.start.canon](https://ijstarttcans.github.io/)
 * On your PC or Laptop web address bar, enter ij.start.canon and Click Set Up.
 
 ###  Step 3 – Enter Your Canon Printer Model
@@ -44,6 +47,7 @@ Take out all the canon printer elements from the box and assemble them on a clea
 ###  Step 8 – Connect USB if available
 * This step for ij start canon isn’t mandatory, however if you have a USB cable and the wireless connection method fails, in that case, choose a USB connection during installation. Thereafter, plug one side of the USB cable to the canon printer’s rear and another side to the PC, Laptop port.
 
+
 ##  Ways to Connect the Canon printer to the driver or software
 
 * After installation of the driver, open the driver.
@@ -61,11 +65,12 @@ Take out all the canon printer elements from the box and assemble them on a clea
 * And then add it.
 * That's it, and the printer is ready to take command from the ij.start.canon driver.
 
+
 ##  Step-by-Step Instructions to Print with your Canon printer
 
 **_To print with your canon printer, follow these simple steps mentioned below:_**
 
-* Make sure you’ve downloaded and installed the printer driver from Canon’s website, ij.start.canon. After completing the printer setup, you must add your • printer to your system to print. This is exactly what is required.
+* Make sure you’ve downloaded and installed the printer driver from Canon’s website, [ij.start.canon](https://ijstarttcans.github.io/). After completing the printer setup, you must add your • printer to your system to print. This is exactly what is required.
 * Return to the control panel and select the **“Hardware and Sound”** section.
 * Next, choose **“Devices and Printers,”** which will bring up the device window.
 * Next, go to the top of the page and click the **“Add a printer”** link.
